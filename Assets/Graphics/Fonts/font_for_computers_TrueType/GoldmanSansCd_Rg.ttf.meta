@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f7f73904a92634df3a03a702902cef40
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Goldman Sans Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8340c87091fef446fb81d07e1a4bb749, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

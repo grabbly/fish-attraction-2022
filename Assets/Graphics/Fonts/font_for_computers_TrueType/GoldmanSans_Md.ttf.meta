@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: bf8196a9f74504792889a1861121ab9f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Goldman Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 33b9d596fab0841109e8e1b35c266bc9, type: 3}
+  - {fileID: 12800000, guid: cb6d9f0c706b949f18443e88a2e28758, type: 3}
+  - {fileID: 12800000, guid: 36556b588227c48dda6225ed613a8756, type: 3}
+  - {fileID: 12800000, guid: 2b3877532601f476c8d9cfa8bebd2061, type: 3}
+  - {fileID: 12800000, guid: 61ca34fa8473041e291b565be7c66f4e, type: 3}
+  - {fileID: 12800000, guid: 16257f3662cfd4c3d880a49488b508da, type: 3}
+  - {fileID: 12800000, guid: f82c9ea54ded34b0180ce477635dfcf8, type: 3}
+  - {fileID: 12800000, guid: 0ae486245d62f4123a32af81676d8d1f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
